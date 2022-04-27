@@ -1,5 +1,5 @@
 # Pet project
-A simple program that is realized by entering data, storing it in memory (in a file) and reading from a file to printing that data.
+A simple program that is realized by entering data, storing it in memory (in a file) and reading from a file to printing that data. It can serve as a template for developing much more complex software and projects.
 
 ### Details of the project realized:
 * Graphic presentation of the program
